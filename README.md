@@ -78,9 +78,11 @@
 
 
 <p align="center">
-  <img src="https://github.com/Gashuk/desktop-tutorial/assets/66191970/5b907ab8-f7fc-481c-b3c3-5769e2fd9d1e">
+  <img src="https://drive.google.com/file/d/1DZeYKxuVfVceRRpl8UcS-a-mO23g_Gkb/view?usp=share_link">
  <p align="center"><strong>Матрица корреляции</strong></p>
 </p>
+
+
 
 
 **Вывод:**
@@ -129,7 +131,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Gashuk/desktop-tutorial/assets/66191970/26fd5c18-fa96-4bf3-bc23-dc9d8297a153">
+  <img src="https://drive.google.com/file/d/1Okb3selREXgYykLoM167q1ei0lvGj0zW/view?usp=share_link">
   <p align="center"><strong>Матрица корреляции</strong></p>
 </p>
 
@@ -250,12 +252,12 @@
 
 
 <p align="center">
-  <img src="https://github.com/Gashuk/desktop-tutorial/assets/66191970/f26d7432-540d-4057-baf9-c8b8c9706a69">
+  <img src="https://drive.google.com/file/d/1b-k2_hLyqvFU3zCmVQlZ8qmOGhRgX_dv/view?usp=share_link">
   <p align="center"><strong>График "Кривая обучения"  модели</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Gashuk/desktop-tutorial/assets/66191970/405f41e5-966c-431e-b8a9-62269cfbec3f">
+  <img src="https://drive.google.com/file/d/1SZKfbglnaPV2N-3aH1wteODLOXcmUg4j/view?usp=share_link">
   <p align="center"><strong>График "Важности признаков"</strong></p>
 </p>
 
