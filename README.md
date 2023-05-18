@@ -77,8 +77,10 @@
  
 
 
+
 <p align="center">
-  <img src="https://drive.google.com/file/d/1DZeYKxuVfVceRRpl8UcS-a-mO23g_Gkb/view?usp=share_link">
+<!--  ![Матрица_1](https://github.com/Gashuk/Real_estate_value_prediction/assets/66191970/e8ca672c-ec98-4e5b-aad3-90fbac4bd388) -->
+   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66191970/239244553-e8ca672c-ec98-4e5b-aad3-90fbac4bd388.png">
  <p align="center"><strong>Матрица корреляции</strong></p>
 </p>
 
@@ -131,7 +133,9 @@
 
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Okb3selREXgYykLoM167q1ei0lvGj0zW/view?usp=share_link">
+<!--  ![239222031-26fd5c18-fa96-4bf3-bc23-dc9d8297a153](https://github.com/Gashuk/Real_estate_value_prediction/assets/66191970/193f8f6e-6b00-482c-831e-c94ebcf343b9) -->
+
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66191970/239244732-193f8f6e-6b00-482c-831e-c94ebcf343b9.png">
   <p align="center"><strong>Матрица корреляции</strong></p>
 </p>
 
@@ -169,6 +173,8 @@
 
 
 # Обучение модели
+
+
 
 **Выполненные пункты:**
 
@@ -252,12 +258,14 @@
 
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1b-k2_hLyqvFU3zCmVQlZ8qmOGhRgX_dv/view?usp=share_link">
+<!--  ![239224873-f26d7432-540d-4057-baf9-c8b8c9706a69](https://github.com/Gashuk/Real_estate_value_prediction/assets/66191970/e67c5cb8-dfcc-44cb-9c61-7e9ffd317dff) -->
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66191970/239244003-e67c5cb8-dfcc-44cb-9c61-7e9ffd317dff.png">
   <p align="center"><strong>График "Кривая обучения"  модели</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1SZKfbglnaPV2N-3aH1wteODLOXcmUg4j/view?usp=share_link">
+<!--   ![239225265-405f41e5-966c-431e-b8a9-62269cfbec3f](https://github.com/Gashuk/Real_estate_value_prediction/assets/66191970/44a72014-f8d8-4f14-8318-3c253f713c26) -->
+ <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66191970/239244468-44a72014-f8d8-4f14-8318-3c253f713c26.png">
   <p align="center"><strong>График "Важности признаков"</strong></p>
 </p>
 
